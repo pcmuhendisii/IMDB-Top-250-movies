@@ -29,6 +29,8 @@ Proje IMDB'ye ait 250 filmin:
  - Yapımcı
 Bilgilerini işleyerek ekranda gösterir.
 
+Csv dosyası -> data.world
+
 ----------------------------------------------
 
 [EN]  
@@ -59,3 +61,5 @@ The project processes and displays the:
  - IMDB rating  
  - Production  
 information of 250 movies from IMDB on the screen.
+
+Csv file -> data.world
